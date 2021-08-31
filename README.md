@@ -1,7 +1,7 @@
 # fourchem
 Spatial artificial chemistry
 
-This project is about artificial life and artificial chemistry. Among the questions that arise in the artificial life community is the question: can systems exhibiting the characteristics of living systems exist in any medium other than the biochemistry that we find on our planet? Are there some specific features of real chemistry that are essential for life?  How far can we abstract away from real chemistry and still have a system in which life of some kind can exist?
+This project is about artificial life and artificial chemistry. Among the questions that arise in the artificial life community are the following: can systems exhibiting the characteristics of living systems exist in any medium other than the biochemistry that we find on our planet? Are there some specific features of real chemistry that are essential for life?  How far can we abstract away from real chemistry and still have a system in which life of some kind can exist?
 
 Many artificial chemistries have been designed which abstract away some features of real chemistry. I’m interested in spatial artificial chemistries. Can we find a system of rules for interacting particles in space which is rich enough to support life-like systems, yet simple enough to be computationally tractable?
 
